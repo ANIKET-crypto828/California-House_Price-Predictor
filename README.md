@@ -16,7 +16,8 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/california-housing-prediction.git
+git clone https://github.com/ANIKET-crypto828
+/california-housing-prediction.git
 cd california-housing-prediction
 
 Install dependencies:
